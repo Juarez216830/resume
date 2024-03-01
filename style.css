@@ -13,6 +13,7 @@ body {
     flex: 1 1 400px;
     padding: 1em;
     line-height: 1.5em;
+    background-color: #576D7B;
   }
   
   div#right-column {
@@ -21,7 +22,7 @@ body {
     padding: 1em;
     line-height: 1.2em;
   }
-  #initials,
+  #name,
   h1,
   h2 {
     text-align: center;
@@ -34,14 +35,14 @@ body {
     margin-bottom: 0.25em;
   }
   
-  #initials,
+  #name,
   h2 {
     border-bottom: black solid 1px;
     margin: 1rem 0;
     padding-bottom: 1rem;
   }
   
-  #initials {
+  #name {
     font-family: sans-serif;
     font-size: 4em;
     margin-bottom: 2rem;
