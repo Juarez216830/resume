@@ -32,7 +32,7 @@ body {
     padding: 1em;
     line-height: 1.2em;
   }
-
+  #name,
   h1,
   h2 {
     text-align: center;
